@@ -51,6 +51,12 @@ Along the way, the project also explored sales behavior by **genre, year, publis
 Excel was the core tool for preparing, exploring, summarizing, and visualizing the data, while PowerPoint was used for the final executive-facing presentation.
 
 ---
+## About
+
+Built by **Elia Lanz**, a freelance data analyst specialising in [custom dashboards for multi location operators](https://www.elialanz.com/dashboard-service/), retail, transport, booking-based services, and e-commerce.
+
+[See how I work with clients →](https://www.elialanz.com/dashboard-service/) · [Other data services I offer →](https://www.elialanz.com/hire-me/) · [elialanz.com](https://www.elialanz.com)
+---
 
 ## Repository Structure
 
@@ -66,9 +72,3 @@ Excel was the core tool for preparing, exploring, summarizing, and visualizing t
   [2] Visualizations
   [3] Test Files
 [05] Final Deliverables
-
-## About
-
-Built by **Elia Lanz**, a freelance data analyst specialising in [custom dashboards for multi location operators](https://www.elialanz.com/dashboard-service/), retail, transport, booking-based services, and e-commerce.
-
-[See how I work with clients →](https://www.elialanz.com/dashboard-service/) · [Other data services I offer →](https://www.elialanz.com/hire-me/) · [elialanz.com](https://www.elialanz.com)
